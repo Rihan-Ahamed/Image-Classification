@@ -49,8 +49,8 @@ Test with new sample image
 
 ## PROGRAM
 
-### Name: MAHALINGA JEYANTH V
-### Register Number:212224220057
+### Name: RIHAN AHAMED S
+### Register Number:212224040276
 ```
 class CNNClassifier(nn.Module):
     def __init__(self):
